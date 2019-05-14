@@ -43,7 +43,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "91083de3a4865e6f78be1bae794b9e3a"
+    "revision": "830efb80a053be31e394c6969cda1402"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
